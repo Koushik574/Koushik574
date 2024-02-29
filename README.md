@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPa6iaycEPzQ8OxxAl4GIRm1pKCDB3VZdnQ&usqp=CAU)
+![MasterHead](https://www.google.com/search?sca_esv=c796b4c45112019f&rlz=1C1JJTC_enIN1044IN1044&sxsrf=ACQVn0-Yjn_EgDoZWs_GnqNLhH19cui_0Q:1709228881311&q=github+masterhead&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjewb3ijdGEAxWgRmwGHa4uCo8Q0pQJegQIDhAB&biw=1536&bih=695&dpr=1.25#imgrc=kfpqCuXmfeFi9M)
 
 <h1 align="center">Hi 👋, I'm Sai Koushik</h1>
 <h3 align="center">MERN Stack Developer</h3>
