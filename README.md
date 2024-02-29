@@ -1,5 +1,4 @@
-![Header](./[![image](https://github.com/Koushik574/Koushik574/assets/91236172/0d2f50ea-4496-4b14-accb-521b59071b33)
-])
+![Header](https://github.com/Koushik574/Koushik574/assets/91236172/0d2f50ea-4496-4b14-accb-521b59071b33)
 
 <h1 align="center">Hi 👋, I'm Sai Koushik</h1>
 <h3 align="center">MERN Stack Developer</h3>
