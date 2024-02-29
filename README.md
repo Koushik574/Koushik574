@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/search?sca_esv=c796b4c45112019f&rlz=1C1JJTC_enIN1044IN1044&sxsrf=ACQVn0-Yjn_EgDoZWs_GnqNLhH19cui_0Q:1709228881311&q=github+masterhead&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjewb3ijdGEAxWgRmwGHa4uCo8Q0pQJegQIDhAB&biw=1536&bih=695&dpr=1.25#imgrc=kfpqCuXmfeFi9M)
+[![MasterHead](https://www.google.com/search?sca_esv=c796b4c45112019f&rlz=1C1JJTC_enIN1044IN1044&sxsrf=ACQVn0-Yjn_EgDoZWs_GnqNLhH19cui_0Q:1709228881311&q=github+masterhead&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjewb3ijdGEAxWgRmwGHa4uCo8Q0pQJegQIDhAB&biw=1536&bih=695&dpr=1.25#imgrc=kfpqCuXmfeFi9M)](https://www.google.com/search?q=!%5BMasterHead%5D(https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRjPa6iaycEPzQ8OxxAl4GIRm1pKCDB3VZdnQ%26usqp%3DCAU)&rlz=1C1JJTC_enIN1044IN1044&oq=!%5BMasterHead%5D(https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcRjPa6iaycEPzQ8OxxAl4GIRm1pKCDB3VZdnQ%26usqp%3DCAU)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzc1M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
 <h1 align="center">Hi 👋, I'm Sai Koushik</h1>
 <h3 align="center">MERN Stack Developer</h3>
